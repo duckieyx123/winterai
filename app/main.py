@@ -51,6 +51,7 @@ def main():
     # TODO: Uncomment the following line to pass the first stage
     #test123
     #TESTING123
+    hi = 123
     print(chat.choices[0].message.content)
 
 

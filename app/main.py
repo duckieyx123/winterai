@@ -49,9 +49,6 @@ def main():
     print("Logs from your program will appear here!", file=sys.stderr)
 
     # TODO: Uncomment the following line to pass the first stage
-    #test123
-    # hadoadioiahdowiaosd jieiajdsjw
-    hi = 123
     print(chat.choices[0].message.content)
 
 
